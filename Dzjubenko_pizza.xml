@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pizzeria>
+    <pizza name="Home pizza">
+        <ingredients>
+            <part>
+                <ingredient name="water">
+                    <weight>glass</weight>
+                </ingredient>
+                <ingredient name="yeast">
+                    <weight>tsp</weight>
+                </ingredient>
+                <ingredient name="egg">
+                    <weight>1</weight>
+                </ingredient>
+                <description>
+                    1. Наливаем теплую воду в глубокую посуду, вбиваем туда яйцо, хорошенько размешиваем и добавляем сухие дрожжи. Даем им постоять минут 5-10.
+                </description>
+            </part>
+            <part>
+                <ingredient name="sugar">
+                    <weight>150g</weight>
+                </ingredient>
+                <ingredient name="oil">
+                    <weight>tbsp</weight>
+                </ingredient>
+                <ingredient name="salt">
+                    <weight>1/2 tsp</weight>
+                </ingredient>
+                <description>
+                    2. Добавляем соль, сахар и растительное масло. Взбиваем до однородной массы и постепенно всыпаем муку. 
+                    Вымешиваем не очень крутое тесто, так, чтобы оно только к рукам не липло. Кладем тесто в пакет - и в холодильник на 2 часа.
+                </description>
+            </part>
+            <part>
+                <ingredient name="onion">
+                    <weight>1 pcs</weight>
+                </ingredient>
+                <ingredient name="tomato">
+                    <weight>1 pcs</weight>
+                </ingredient>
+                <ingredient name="sausage">
+                    <weight>1 pcs</weight>
+                </ingredient>
+                <ingredient name="paper">
+                    <weight>1 pcs</weight>
+                </ingredient>
+                
+                <ingredient name="ketchup">
+                    <weight>3 tbsp</weight>
+                </ingredient>
+                <ingredient name="mayonnaise">
+                    <weight>3 tbsp</weight>
+                </ingredient>
+                <description>
+                    3. Тем временем готовим начинку. Нарезаем лук полукольцами, помидор - кольцами, колбаску - соломкой, перчик. Смешиваем кетчуп и майонез.
+                </description>
+            </part>
+            <part>
+                <description>
+                    4. Спустя 2 часа достаем тесто и выкладываем его на предварительно смазанный и разогретый противень. 
+                    Тесто получается очень пластичным, его не требуется раскатывать, поэтому советую смазать руки 
+                    подсолнечным маслом и растянуть тесто на размер противня.
+                </description>
+            </part>
+            <part>
+                <description>
+                    <ingredient name="cheese">
+                        <weight>300g</weight>
+                    </ingredient>
+                    5. После чего смазать тесто соусом из кетчупа с майонезом, выложить приготовленную заранее начинку и засыпать тертым сыром.
+                </description>
+            </part>
+        </ingredients>
+        
+        <warming>
+            <time>20 min</time>
+            <degree>200 degree</degree>
+        </warming>
+    </pizza>
+</pizzeria>

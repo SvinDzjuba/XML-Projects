@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <country name='Estonia'>
+        <symbol>€</symbol>
+        <currency>Euro</currency>
+        <year>2011</year>
+        <image></image>
+    </country>
+    <country name='Latvia'>
+        <symbol>€</symbol>
+        <currency>Euro</currency>
+        <year>2014</year>
+        <image></image>
+    </country>
+    <country name='Ukraine'>
+        <symbol>₴</symbol>
+        <currency>UAH</currency>
+        <year>1996</year>
+        <image></image>
+    </country>
+    <country name='Russia'>
+        <symbol>₽</symbol>
+        <currency>RUB</currency>
+        <year>1992</year>
+        <image></image>
+    </country>
+    <country name='Denmark'>
+        <symbol>kr</symbol>
+        <currency>DKK</currency>
+        <year>1873</year>
+        <image></image>
+    </country>
+    <country name='Nigeria'>
+        <symbol>₦</symbol>
+        <currency>NGN</currency>
+        <year>1973</year>
+        <image></image>
+    </country>
+    <country name='Saudi Arabia'>
+        <symbol>﷼</symbol>
+        <currency>SR</currency>
+        <year>1928</year>
+        <image></image>
+    </country>
+    <country name='Poland'>
+        <symbol>zł</symbol>
+        <currency>PLN</currency>
+        <year>1924</year>
+        <image></image>
+    </country>
+    <country name='New Zealand'>
+        <symbol>$</symbol>
+        <currency>NZD</currency>
+        <year>1967</year>
+        <image></image>
+    </country>
+    <country name='Great Britain'>
+        <symbol>£</symbol>
+        <currency>GBP</currency>
+        <year>1694</year>
+        <image></image>
+    </country>
+</root>

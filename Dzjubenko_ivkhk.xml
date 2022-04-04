@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<staff>
+    <department name="IT and Multimedia">
+        <speciality spec="Software developer">
+            <group grname="JPTV20">
+                <student>
+                    <first_name>Maksim</first_name>
+                    <last_name>Dzjubenko</last_name>
+                </student>
+                <student>
+                    <first_name>Daniil</first_name>
+                    <last_name>Divissenko</last_name>
+                </student>
+                <student>
+                    <first_name>Daniel</first_name>
+                    <last_name>Monjane</last_name>
+                </student>
+            </group>
+            <!-- <group grname="JPTV21">
+                <student>
+                    <first_name>Daniil</first_name>
+                    <last_name>Orpachev</last_name>
+                </student>
+                <student>
+                    <first_name>Aleksei</first_name>
+                    <last_name>Kozlov</last_name>
+                </student>
+            </group> -->
+        </speciality>
+    </department>
+    <department name="Technology">
+        <speciality spec="Automatic">
+            <group grname="JPAS21">
+                <student>
+                    <first_name>Ilya</first_name>
+                    <last_name>Usankin</last_name>
+                </student>
+                <student>
+                    <first_name>Artjom</first_name>
+                    <last_name>Buzinin</last_name>
+                </student>
+                <student>
+                    <first_name>Daniel</first_name>
+                    <last_name>Vassiljev</last_name>
+                </student>
+            </group>
+        </speciality>
+        <!-- <speciality spec="Laboratory assistant">
+            <group grname="JTAS19">
+                <student>
+                    <first_name>Valerija</first_name>
+                    <last_name>Glimakova</last_name>
+                </student>
+            </group>
+        </speciality> -->
+    </department>
+</staff>

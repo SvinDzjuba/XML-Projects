@@ -1,0 +1,373 @@
+[
+    {
+        "Title": "Batman",
+        "Year": "1989",
+        "Rated": "PG-13",
+        "Released": "23 Jun 1989",
+        "Runtime": "126 min",
+        "Genre": "Action, Adventure",
+        "Director": "Tim Burton",
+        "Writer": "Bob Kane, Sam Hamm, Warren Skaaren",
+        "Actors": "Michael Keaton, Jack Nicholson, Kim Basinger",
+        "Plot": "The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker.",
+        "Language": "English, French, Spanish",
+        "Country": "United States, United Kingdom",
+        "Awards": "Won 1 Oscar. 9 wins & 26 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTYwNjAyODIyMF5BMl5BanBnXkFtZTYwNDMwMDk2._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.5/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "72%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "69/100"
+            }
+        ],
+        "Metascore": "69",
+        "imdbRating": "7.5",
+        "imdbVotes": "367,101",
+        "imdbID": "tt0096895",
+        "Type": "movie",
+        "DVD": "22 Aug 1997",
+        "BoxOffice": "$251,409,241",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Titanic",
+        "Year": "1997",
+        "Rated": "PG-13",
+        "Released": "19 Dec 1997",
+        "Runtime": "194 min",
+        "Genre": "Drama, Romance",
+        "Director": "James Cameron",
+        "Writer": "James Cameron",
+        "Actors": "Leonardo DiCaprio, Kate Winslet, Billy Zane",
+        "Plot": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+        "Language": "English, Swedish, Italian, French",
+        "Country": "United States, Mexico",
+        "Awards": "Won 11 Oscars. 125 wins & 83 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.8/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "87%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "75/100"
+            }
+        ],
+        "Metascore": "75",
+        "imdbRating": "7.8",
+        "imdbVotes": "1,126,468",
+        "imdbID": "tt0120338",
+        "Type": "movie",
+        "DVD": "08 Jan 2002",
+        "BoxOffice": "$659,363,944",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "The Dark Knight",
+        "Year": "2008",
+        "Rated": "PG-13",
+        "Released": "18 Jul 2008",
+        "Runtime": "152 min",
+        "Genre": "Action, Crime, Drama",
+        "Director": "Christopher Nolan",
+        "Writer": "Jonathan Nolan, Christopher Nolan, David S. Goyer",
+        "Actors": "Christian Bale, Heath Ledger, Aaron Eckhart",
+        "Plot": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+        "Language": "English, Mandarin",
+        "Country": "United States, United Kingdom",
+        "Awards": "Won 2 Oscars. 159 wins & 163 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "9.1/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "94%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "84/100"
+            }
+        ],
+        "Metascore": "84",
+        "imdbRating": "9.1",
+        "imdbVotes": "2,528,462",
+        "imdbID": "tt0468569",
+        "Type": "movie",
+        "DVD": "09 Dec 2008",
+        "BoxOffice": "$534,987,076",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Astral",
+        "Year": "2018",
+        "Rated": "TV-MA",
+        "Released": "23 Nov 2018",
+        "Runtime": "83 min",
+        "Genre": "Drama, Horror, Sci-Fi",
+        "Director": "Chris Mul",
+        "Writer": "Chris Mul, Michael Mul",
+        "Actors": "Frank Dillane, Catherine Steadman, Damson Idris",
+        "Plot": "A detached university student faces the consequences of astral projection when he uses it to reconnect with his dead mother.",
+        "Language": "English",
+        "Country": "United Kingdom",
+        "Awards": "2 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOTFlOGE5OTYtYjhiZS00MWIwLTkyZTktYjUyODc2NjEzOWZiXkEyXkFqcGdeQXVyMzQwNDE2NDg@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "4.9/10"
+            }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "4.9",
+        "imdbVotes": "4,621",
+        "imdbID": "tt4765240",
+        "Type": "movie",
+        "DVD": "23 Nov 2018",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "The Avengers",
+        "Year": "2012",
+        "Rated": "PG-13",
+        "Released": "04 May 2012",
+        "Runtime": "143 min",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "Joss Whedon",
+        "Writer": "Joss Whedon, Zak Penn",
+        "Actors": "Robert Downey Jr., Chris Evans, Scarlett Johansson",
+        "Plot": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+        "Language": "English, Russian, Hindi",
+        "Country": "United States",
+        "Awards": "Nominated for 1 Oscar. 38 wins & 80 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.1/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "91%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "69/100"
+            }
+        ],
+        "Metascore": "69",
+        "imdbRating": "8.1",
+        "imdbVotes": "1,345,654",
+        "imdbID": "tt0848228",
+        "Type": "movie",
+        "DVD": "25 Sep 2012",
+        "BoxOffice": "$623,357,910",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Main Character",
+        "Year": "2018",
+        "Rated": "N/A",
+        "Released": "N/A",
+        "Runtime": "12 min",
+        "Genre": "Short, Action, Thriller",
+        "Director": "Leszczynski Joseph",
+        "Writer": "Leszczynski Joseph",
+        "Actors": "N/A",
+        "Plot": "A young boy lost without the guidance of caring biological parents.",
+        "Language": "English",
+        "Country": "USA",
+        "Awards": "N/A",
+        "Poster": "N/A",
+        "Ratings": [],
+        "Metascore": "N/A",
+        "imdbRating": "N/A",
+        "imdbVotes": "N/A",
+        "imdbID": "tt8070186",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Black Widow",
+        "Year": "2021",
+        "Rated": "PG-13",
+        "Released": "09 Jul 2021",
+        "Runtime": "134 min",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "Cate Shortland",
+        "Writer": "Eric Pearson, Jac Schaeffer, Ned Benson",
+        "Actors": "Scarlett Johansson, Florence Pugh, David Harbour",
+        "Plot": "Natasha Romanoff confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises.",
+        "Language": "English, Russian, Norwegian, Hungarian, Macedonian, Finnish",
+        "Country": "United States",
+        "Awards": "8 wins & 28 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNjRmNDI5MjMtMmFhZi00YzcwLWI4ZGItMGI2MjI0N2Q3YmIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.7/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "79%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "67/100"
+            }
+        ],
+        "Metascore": "67",
+        "imdbRating": "6.7",
+        "imdbVotes": "343,512",
+        "imdbID": "tt3480822",
+        "Type": "movie",
+        "DVD": "06 Oct 2021",
+        "BoxOffice": "$183,651,655",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Resort to Love",
+        "Year": "2021",
+        "Rated": "PG",
+        "Released": "29 Jul 2021",
+        "Runtime": "101 min",
+        "Genre": "Comedy, Romance",
+        "Director": "Steven K. Tsuchida",
+        "Writer": "Tabi McCartney, Dana Schmalenberg",
+        "Actors": "Christina Milian, Tymberlee Hill, Kayne Lee Harrison",
+        "Plot": "Erica, who ends up as the entertainment at her ex-fiancé's wedding after reluctantly taking a gig at a luxurious island resort while in the wake of a music career meltdown.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "1 win",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZjhhN2RhNGMtM2VkYS00MjkwLTg4M2MtOWQ2ZTE2NTg0MTBmXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "5.7/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "61%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "46/100"
+            }
+        ],
+        "Metascore": "46",
+        "imdbRating": "5.7",
+        "imdbVotes": "5,474",
+        "imdbID": "tt12929990",
+        "Type": "movie",
+        "DVD": "29 Jul 2021",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Parrot",
+        "Year": "2012",
+        "Rated": "N/A",
+        "Released": "28 Jul 2012",
+        "Runtime": "24 min",
+        "Genre": "Short, Drama",
+        "Director": "Craig D. Foster",
+        "Writer": "Craig D. Foster, Emma McKenna",
+        "Actors": "Gig Clarke, Fiona Press, Anthony Slater, Barry Shepherd",
+        "Plot": "In the wake of his brother's death a young atheist scrambles for emotional support as his relationship with his deeply religious parents crumbles.",
+        "Language": "English",
+        "Country": "Australia",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTM1NDg0NjIwNl5BMl5BanBnXkFtZTcwNTgyNzkyNg@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.3/10"
+            }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "8.3",
+        "imdbVotes": "12",
+        "imdbID": "tt1867030",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "The Guilty",
+        "Year": "2021",
+        "Rated": "R",
+        "Released": "01 Oct 2021",
+        "Runtime": "90 min",
+        "Genre": "Crime, Drama, Thriller",
+        "Director": "Antoine Fuqua",
+        "Writer": "Nic Pizzolatto, Gustav Möller, Emil Nygaard Albertsen",
+        "Actors": "Jake Gyllenhaal, Riley Keough, Peter Sarsgaard",
+        "Plot": "A demoted police officer assigned to a call dispatch desk is conflicted when he receives an emergency phone call from a kidnapped woman.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZWI3NmEyYzAtNWY4OC00YWY4LTk2MjgtM2Y1NDdlZWE4ODgzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.3/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "74%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "63/100"
+            }
+        ],
+        "Metascore": "63",
+        "imdbRating": "6.3",
+        "imdbVotes": "109,865",
+        "imdbID": "tt9421570",
+        "Type": "movie",
+        "DVD": "01 Oct 2021",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    }
+]

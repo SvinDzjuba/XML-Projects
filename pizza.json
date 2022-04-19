@@ -1,0 +1,94 @@
+[
+    {   
+        "poster":"https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-51643_11-2f4a2cc.jpg?quality=90&webp=true&resize=300,272",
+        "name":"Margherita",
+        "ingredients":[
+            {"name":"tomato", "unit":"pc", "count":"2"},
+            {"name":"cheese", "unit":"g", "count":"300"},
+            {"name":"strong bread flour", "unit":"gr", "count":"300"},
+            {"name":"instant yeast", "unit":"tsp", "count":"1"},
+            {"name":"olive oil", "unit":"tbsp", "count":"1"}
+        ],
+        "cooking":[
+            {"type": "preparation","time":"25 mins"},
+            {"type": "cook","time":"10 mins"}
+        ],
+        "steps":[
+            {"id": 1, "description":"Make the base: Put the flour into a large bowl, then stir in the yeast and salt. Make a well, pour in 200ml warm water and the olive oil and bring together with a wooden spoon until you have a soft, fairly wet dough. Turn onto a lightly floured surface and knead for 5 mins until smooth. Cover with a tea towel and set aside. You can leave the dough to rise if you like, but it’s not essential for a thin crust."},
+            {"id": 2, "description":"Make the sauce: Mix the passata, basil and crushed garlic together, then season to taste. Leave to stand at room temperature while you get on with shaping the base."},
+            {"id": 3, "description":"Roll out the dough: if you’ve let the dough rise, give it a quick knead, then split into two balls. On a floured surface, roll out the dough into large rounds, about 25cm across, using a rolling pin. The dough needs to be very thin as it will rise in the oven. Lift the rounds onto two floured baking sheets."},
+            {"id": 4, "description":"Top and bake: heat the oven to 240C/220C fan/gas 8. Put another baking sheet or an upturned baking tray in the oven on the top shelf. Smooth sauce over bases with the back of a spoon. Scatter with cheese and tomatoes, drizzle with olive oil and season. Put one pizza, still on its baking sheet, on top of the preheated sheet or tray. Bake for 8-10 mins until crisp. Serve with a little more olive oil, and basil leaves if using. Repeat step for remaining pizza."}
+        ]
+    },
+    {
+        "poster":"https://images.immediate.co.uk/production/volatile/sites/30/2020/08/pizza-with-homemade-sauce-b7beea0.jpg?quality=90&webp=true&resize=300,272",
+        "name":"Home Pizza",
+        "ingredients":[
+            {"name":"strong white bread flour", "unit":"g", "count":"300"},
+            {"name":"passata", "unit":"ml", "count":"200"},
+            {"name":"instant yeast", "unit":"tsp", "count":"1"},
+            {"name":"olive oil", "unit":"tbsp", "count":"1"},
+            {"name":"mozzarella pearls", "unit":"pc", "count":"8"},
+            {"name":"garlic cloves", "unit":"pc", "count":"2"}
+        ],
+        "cooking":[
+            {"type": "preparation","time":"30 mins"},
+            {"type": "cook","time":"20 mins"}
+        ],
+        "steps":[
+            {"id": 1, "description":"Tip the flour into a bowl, then stir in the yeast and 1 tsp salt. Make a well in the centre and pour in 200ml warm water (make sure it’s not too hot) along with the oil. Stir together with a wooden spoon until you have a soft, fairly wet dough."},
+            {"id": 2, "description":"Tip the dough out onto a lightly floured surface and knead for 5 mins until smooth. Cover with a tea towel and set aside for an hour or so or until the dough has puffed up and doubled in size. You can also leave the rough, unkneaded dough in the bowl, cover with a tea towel and leave in the fridge overnight and the dough will continue to prove on its own."},
+            {"id": 3, "description":"Meanwhile, make the tomato sauce. Put the oil in a small pan and fry the garlic briefly (don’t let it brown), then add the passata and simmer everything until the sauce thickens a little. Leave to cool."},
+            {"id": 4, "description":"Once the dough has risen, knead it quickly in the bowl to knock it back, then tip out onto a lightly floured surface and cut into two balls. Roll out each ball into a large teardrop that is very thin and about 25cm across (teardrop shapes fit baking sheets more easily than rounds)."},
+            {"id": 5, "description":"Heat oven to 240C/220C fan/ gas 9 with a large baking sheet inside. Lift one of the bases onto another floured baking sheet. Smooth the sauce over the base with the back of a spoon, scatter over half the mozzarella, drizzle with olive oil and season. Put the pizza, still on its baking sheet, on top of the hot sheet in the oven and bake for 8-10 mins until crisp."}
+        ]
+    },
+    {
+        "poster":"https://images.immediate.co.uk/production/volatile/sites/30/2020/08/tortilla-pizza-c67da46.jpg?quality=90&webp=true&resize=300,272",
+        "name":"Tortilla",
+        "ingredients":[
+            {"name":"passata", "unit":"tbsp", "count":"4"},
+            {"name":"garlic clove", "unit":"pc", "count":"1"},
+            {"name":"olive oil", "unit":"tbsp", "count":"1/2"},
+            {"name":"dried herbs", "unit":"tsp", "count":"1/2"},
+            {"name":"plain tortillas", "unit":"pc", "count":"2"},
+            {"name":"grated mozzarella", "unit":"g", "count":"50"},
+            {"name":"pepperoni", "unit":"pc", "count":"6-8"},
+            {"name":"pickled jalapeño", "unit":"pc", "count":"6-8"}
+        ],
+        "cooking":[
+            {"type": "preparation","time":"10 mins"},
+            {"type": "bake","time":"8 mins"}
+        ],
+        "steps":[
+            {"id": 1, "description":"Heat the oven to 220C/200C fan/gas 7. Mix the passata, garlic, olive oil, herbs and season well. Put the tortillas onto one large baking sheet, or two smaller ones. Spread over the tomato sauce leaving a 1cm border around the edges. Scatter with the mozzarella, add the pepperoni and jalapeños. Bake for 6-8 minutes until the edges of the tortillas are crisp and golden, and the cheese has melted and is bubbling."}
+        ]
+    },
+    {   
+        "poster":"https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-193739_12-b9155c5.jpg?quality=90&webp=true&resize=300,272",
+        "name":"Superhealthy",
+        "ingredients":[
+            {"name":"each strong white and strong wholewheat flour", "unit":"g", "count":"100"},
+            {"name":"sachet easy-blend dried yeast", "unit":"tsp", "count":"1"},
+            {"name":"warm water", "unit":"ml", "count":"125"},
+            {"name":"can chopped tomato", "unit":"g", "count":"200"},
+            {"name":"handful cherry tomatoes", "unit":"handful", "count":"1"},
+            {"name":"large courgette", "unit":"pc", "count":"1"},
+            {"name":"mozzarella", "unit":"g", "count":"25"},
+            {"name":"capers in brine", "unit":"tsp", "count":"1"},
+            {"name":"green olives", "unit":"pc", "count":"8"},
+            {"name":"garlic clove", "unit":"pc", "count":"1"},
+            {"name":"olive oil", "unit":"tbsp", "count":"1"},
+            {"name":"chopped parsley", "unit":"tbsp", "count":"2"}
+        ],
+        "cooking":[
+            {"type": "preparation","time":"15 mins"},
+            {"type": "cook","time":"12 mins"}
+        ],
+        "steps":[
+            {"id": 1, "description":"Mix the flours and yeast with a pinch of salt in a food processor fitted with a dough blade. Pour in the water and mix to a soft dough, then work for 1 min. Remove the dough and roll out on a lightly floured surface to a round about 30cm across. Lift onto an oiled baking sheet."},
+            {"id": 2, "description":"Spread the canned tomatoes over the dough to within 2cm of the edges. Arrange the cherry tomatoes and courgettes over the top, then scatter with the mozzarella. Mix the capers, olives and garlic, then scatter over the top. Drizzle evenly with the oil. Leave to rise for 20 mins. Heat oven to 240C/ fan 220C/gas 9 or the highest setting."},
+            {"id": 3, "description":"Bake the pizza for 10-12 mins until crisp and golden around the edges. Scatter with the parsley to serve."}
+        ]
+    }
+]
